@@ -1,0 +1,293 @@
+*{margin: 0;padding: 0;}  a{text-decoration: none;} ul>li{list-style: none;}
+.daohang{
+    background-color: #000;
+    width:90%;
+    height:20%;
+    position: relative;
+    left:5%;
+    
+}
+.daohang>div{
+    text-align: center;
+    line-height: 100%;
+
+}
+.daohang>div>a,.daohang>div>b{
+    color: #fff;
+    font-weight: lighter;
+    font-size: 5%;
+    width:90%;
+    margin-left: 2%;
+    text-decoration: none;
+}
+.daohang_1{
+    height: 5%;
+    width:90%;
+    background-color: #b40001;
+    position: relative;
+    left:5%;
+    
+}
+.daohang_1>div>img{
+    margin: 13px 15%;
+}
+.daohang_1>div>ul{
+    margin-left:-10em; 
+}
+.daohang_1>div>ul>li>a{
+    /* font-size: 100; */
+    color: #fff;
+    margin-left: 5em; 
+    line-height: 61px;
+}
+.carousel-inner{
+    width: 90%;
+    position: relative;
+    left:4.3%;
+}
+.f1_text>div>div div{
+    text-align: center;
+}
+.f1_text>div>div div>hr{
+    margin: 0 auto;
+}
+.text_2>div{
+    text-align: center;
+    margin: 2% 0%;
+}
+.text_2>div>h2>span:first-child{
+    color: #b40001;
+}
+.text_2>.text_2_2{
+    margin: 0 auto;
+}
+.text_2>.text_2_2>div>ul{
+    background-color:#dddddd;
+    height: 50px;
+}
+.text_2>.text_2_2>div>ul>li{
+    margin-left: 5%;
+    line-height: 50px;
+    /* font-size: 1rem; */
+}
+.text_2>.text_2_2>div>ul>li:last-child{
+    margin-right: 5%;
+}
+.text_2>.text_2_2>div>ul>li>a{
+    color: #73AA6F;
+}
+.tu>div{
+    text-align: center;
+}
+.tu>div>span:first-child{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.tu>div>span:last-child{
+    font-size: 1.5rem;
+}
+.tu>div>a>img{
+    width: 100%;
+}
+.row.xilie_1.tu div a img{
+    width: 90%;
+}
+.row.xilie_2.tu div a img{
+    width: 90%;
+}
+.row.xilie_3.tu div a img{
+    width: 90%;
+}
+.row.xilie_4.tu div a img{
+    width: 90%;
+}
+.row.p-0.fuwu.d-flex span a img{
+    width: 50%;
+    position: relative;
+    left:12%; 
+}
+.row.p-0.fuwu.d-flex span{
+    height:304px;
+}
+.row.p-0.fuwu.d-flex span a:last-child img{
+    position: relative;
+    top:-105.5%;
+    left:62%;
+}
+.xilie_1>div>span:first-child{
+color: #AE9A7F;
+}
+.xilie_1>div>span:last-child{
+color:#F5A763;
+}
+.row .tu1 a img{
+    width: 100%;
+}
+ .row .col-12 .m-auto tr td a img{
+     width:100%;
+ }
+.xilie_2>div>span:first-child{
+    color: #4A7E67;
+}
+.xilie_2>div>span:last-child{
+    color: #1E5665;
+}
+.xilie_3>div>span:first-child{
+    color: #B59848;
+}
+.xilie_3>div>span:last-child{
+    color: #AE3E26;
+}
+.xilie_4>div>span:first-child{
+    color: #b40001;
+}
+.xilie_4>div>span:last-child{
+    color: #A80002;
+}
+.fuwu>a:nth-child(1)>img{
+    height: 100%;
+}
+.fuwu>a:nth-child(2)>img{
+    height: 100%;
+}
+.fuwu>a:nth-child(3)>img{
+    height: 100%;
+}
+.kepian>div>a>img {
+    width: 100%;
+}
+.text3>div>p{
+    color: gray;
+}
+.img3>div{
+    text-align: center;
+}
+.dadada>div>img{
+    width: 90%;
+    position: relative;
+    left:5%;
+}
+.pig>div>h1{
+    color:#b19a7f;
+}
+.shengming>div>img{
+    width: 90%;
+    position: relative;
+    left:5%;
+}
+.nav.justify-content-around li a{
+    font-size: 1.5rem;
+}
+.row.text_2_2{
+    position: relative;
+    left:-0.7%;
+    width:92%;
+}
+.row a img{
+     width: 75%;
+     
+}
+.row.footer{
+    width:91.5%;
+    position: relative;
+    left:5%;
+}
+.row.black{
+    width:91.5%;
+    position: relative;
+    left:5%;
+}
+.row1{
+    width:91.5%;
+    position: relative;
+    left:5%;
+}
+.row.maodian{
+    width:91.5%;
+    position: relative;
+    left:5%;
+}
+.footer>div{
+    background-color: #1d1d1d;
+}
+.footer>div>img{
+    width: 20%;
+}
+.footer>div>a{
+    text-decoration: none;
+}
+.footer>div>a>img{
+    width: 13%
+}
+.pink_pig>div>table tr td a{
+    text-decoration: none;
+}
+.maodian>div{
+    background-color: black;
+}
+.maodian>div>div>a{
+    text-decoration: none;
+}
+.black>div{
+    background-color: black;
+}
+.black>div>div>div p {
+    color: white;
+}
+.maodian>div>span>h3{
+    color: white;
+}
+.maodian>div>a{
+    color: white;
+    text-decoration: none;
+}
+.maodian>.haha{
+    color: white;
+}
+#package{
+    position:absolute;
+    right:20%;
+    position:fixed;
+    top:100%;
+}
+#contact{
+    position:absolute;
+    left:5px;
+    position:fixed;
+    top:100%
+}
+#circle{
+    text-align:center;
+    font-size:100%;
+}
+.row .row a img{
+    width: 90%;
+}
+#demo{
+    width: 100%;
+}
+.row .col-12 a img{
+    width: 10%;
+    margin-left:5%;
+} 
+.row .col-4 a img{
+    width: 5%;
+}
+.row .col-12 .row .col-4 a img{
+    width:5%;
+}
+.kepian .col-12 a img{
+    width: 90%;
+} 
+.paging img{
+    width:90%;
+}
+.paging{
+text-align: center;
+}
+.original{
+    text-align: center;
+}
+/* #demo>.carousel-inner .carousel-item a img{
+    margin-left:10px;
+}  */
